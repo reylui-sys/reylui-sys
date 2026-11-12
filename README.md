@@ -2,7 +2,7 @@
 
 **Multimedia Engineer** (Universitat de València) and junior developer focused on **graphics programming, XR and real-time simulation**. I write C++ and GLSL and like understanding what happens under the hood.
 
-🌐 **Portfolio:** [reylui-sys.github.io](https://reylui-sys.github.io)
+🌐 **Portfolio:** [reylui-sys.github.io](https://reylui-sys.github.io) · 💼 **LinkedIn:** [Jose Luis León Gimeno](https://www.linkedin.com/in/jose-luis-le%C3%B3n-gimeno-415950320/)
 
 #### Featured projects
 
